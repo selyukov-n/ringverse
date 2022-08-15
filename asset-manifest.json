@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ringverse/static/css/main.fbc5679b.chunk.css",
-    "main.js": "/ringverse/static/js/main.92d7ec9a.chunk.js",
-    "main.js.map": "/ringverse/static/js/main.92d7ec9a.chunk.js.map",
-    "runtime-main.js": "/ringverse/static/js/runtime-main.5f67a5f1.js",
-    "runtime-main.js.map": "/ringverse/static/js/runtime-main.5f67a5f1.js.map",
-    "static/css/2.1a02f21c.chunk.css": "/ringverse/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.b38b7447.chunk.js": "/ringverse/static/js/2.b38b7447.chunk.js",
-    "static/js/2.b38b7447.chunk.js.map": "/ringverse/static/js/2.b38b7447.chunk.js.map",
-    "static/js/3.9266c00c.chunk.js": "/ringverse/static/js/3.9266c00c.chunk.js",
-    "static/js/3.9266c00c.chunk.js.map": "/ringverse/static/js/3.9266c00c.chunk.js.map",
+    "main.css": "/ringverse/static/css/main.2f637fb9.chunk.css",
+    "main.js": "/ringverse/static/js/main.a0dd6db4.chunk.js",
+    "main.js.map": "/ringverse/static/js/main.a0dd6db4.chunk.js.map",
+    "runtime-main.js": "/ringverse/static/js/runtime-main.10efe505.js",
+    "runtime-main.js.map": "/ringverse/static/js/runtime-main.10efe505.js.map",
+    "static/css/2.e5750c50.chunk.css": "/ringverse/static/css/2.e5750c50.chunk.css",
+    "static/js/2.1c2ccdfe.chunk.js": "/ringverse/static/js/2.1c2ccdfe.chunk.js",
+    "static/js/2.1c2ccdfe.chunk.js.map": "/ringverse/static/js/2.1c2ccdfe.chunk.js.map",
+    "static/js/3.49c8ea7c.chunk.js": "/ringverse/static/js/3.49c8ea7c.chunk.js",
+    "static/js/3.49c8ea7c.chunk.js.map": "/ringverse/static/js/3.49c8ea7c.chunk.js.map",
     "index.html": "/ringverse/index.html",
-    "static/css/2.1a02f21c.chunk.css.map": "/ringverse/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.fbc5679b.chunk.css.map": "/ringverse/static/css/main.fbc5679b.chunk.css.map",
-    "static/js/2.b38b7447.chunk.js.LICENSE.txt": "/ringverse/static/js/2.b38b7447.chunk.js.LICENSE.txt",
+    "static/css/2.e5750c50.chunk.css.map": "/ringverse/static/css/2.e5750c50.chunk.css.map",
+    "static/css/main.2f637fb9.chunk.css.map": "/ringverse/static/css/main.2f637fb9.chunk.css.map",
+    "static/js/2.1c2ccdfe.chunk.js.LICENSE.txt": "/ringverse/static/js/2.1c2ccdfe.chunk.js.LICENSE.txt",
     "static/media/186gac.1b7ae532.gif": "/ringverse/static/media/186gac.1b7ae532.gif",
     "static/media/213ara.867ff470.png": "/ringverse/static/media/213ara.867ff470.png",
     "static/media/219hon.e1ac501c.jpg": "/ringverse/static/media/219hon.e1ac501c.jpg",
@@ -42,10 +42,10 @@
     "static/media/Lines.css": "/ringverse/static/media/morse.58c8d5ef.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f67a5f1.js",
-    "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.b38b7447.chunk.js",
-    "static/css/main.fbc5679b.chunk.css",
-    "static/js/main.92d7ec9a.chunk.js"
+    "static/js/runtime-main.10efe505.js",
+    "static/css/2.e5750c50.chunk.css",
+    "static/js/2.1c2ccdfe.chunk.js",
+    "static/css/main.2f637fb9.chunk.css",
+    "static/js/main.a0dd6db4.chunk.js"
   ]
 }
